@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Edit (UI Page)</name>
+        <parameter_screen/>
+        <query_condition table="sys_ui_page">sys_idSTARTSWITH{{UI Page sys_id}}^EQ<item endquery="false" field="sys_id" goto="false" newquery="false" operator="STARTSWITH" or="false" value="{{UI Page sys_id}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 09:32:06</sys_created_on>
+        <sys_id>b9d297e11be685104e5043b5bb4bcb09</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Edit (UI Page)</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_b9d297e11be685104e5043b5bb4bcb09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 09:32:06</sys_updated_on>
+        <table>sys_ui_page</table>
+        <template>category={{UI Page category}}^client_script={{UI Page client_script}}^description={{UI Page description}}^direct={{UI Page direct}}^endpoint={{UI Page endpoint}}^html={{UI Page html}}^name={{UI Page name}}^processing_script={{UI Page processing_script}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=b9d297e11be685104e5043b5bb4bcb09"/>
+</record_update>

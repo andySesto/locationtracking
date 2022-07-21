@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>false</hide_empty_sections>
+        <name>Location Records</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:26:27</sys_created_on>
+        <sys_id>c24f5ba91be685104e5043b5bb4bcbf9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location Records</sys_name>
+        <sys_package display_value="Navagiation Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Navagiation Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_c24f5ba91be685104e5043b5bb4bcbf9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:26:27</sys_updated_on>
+        <title/>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</application>
+        <file_path/>
+        <instance_id>c445d3d7db52411052cec59705961953</instance_id>
+        <instance_name>empasesto</instance_name>
+        <name>sys_sg_applet_launcher_c24f5ba91be685104e5043b5bb4bcbf9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>false</hide_empty_sections><name>Location Records</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-30 10:26:27</sys_created_on><sys_id>c24f5ba91be685104e5043b5bb4bcbf9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Location Records</sys_name><sys_package display_value="Navagiation Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package><sys_policy/><sys_scope display_value="Navagiation Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope><sys_update_name>sys_sg_applet_launcher_c24f5ba91be685104e5043b5bb4bcbf9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 10:26:27</sys_updated_on><title/></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>680067091</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e019b611be685104e5043b5bb4bcb97</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:26:27</sys_created_on>
+        <sys_id>4a4f136d1be685104e5043b5bb4bcb8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fda5cc6560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:26:27</sys_updated_on>
+        <type>Launcher screen</type>
+        <update_guid>0e4f5ba93be68510f81bd07330644cfa</update_guid>
+        <update_guid_history>0e4f5ba93be68510f81bd07330644cfa:680067091</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 08:10:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>795773526bc0464db72e5b1f3ba5c891</sys_id>
+        <sys_metadata>c24f5ba91be685104e5043b5bb4bcbf9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location Records</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_scope_delete display_value="">265a6f17462846dc8f1512720f121d10</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_c24f5ba91be685104e5043b5bb4bcbf9</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_c24f5ba91be685104e5043b5bb4bcbf9">4a4f136d1be685104e5043b5bb4bcb8e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 08:10:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

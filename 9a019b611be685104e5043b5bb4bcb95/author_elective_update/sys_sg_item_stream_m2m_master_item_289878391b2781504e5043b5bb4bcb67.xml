@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="DELETE">
+        <item_stream display_value="New list stream">363830391b2781504e5043b5bb4bcb17</item_stream>
+        <master_item display_value="New list item config">e8983cf51b2781504e5043b5bb4bcb9d</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 09:59:21</sys_created_on>
+        <sys_id>289878391b2781504e5043b5bb4bcb67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_289878391b2781504e5043b5bb4bcb67</sys_update_name>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 09:59:21</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</application>
+        <file_path/>
+        <instance_id>c445d3d7db52411052cec59705961953</instance_id>
+        <instance_name>empasesto</instance_name>
+        <name>sys_sg_item_stream_m2m_master_item_289878391b2781504e5043b5bb4bcb67</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item"><sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE"><item_stream display_value="New list stream">363830391b2781504e5043b5bb4bcb17</item_stream><master_item display_value="New list item config">e8983cf51b2781504e5043b5bb4bcb9d</master_item><sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name><sys_created_by>andreaadmin</sys_created_by><sys_created_on>2022-05-19 09:59:21</sys_created_on><sys_id>289878391b2781504e5043b5bb4bcb67</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package><sys_policy/><sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope><sys_update_name>sys_sg_item_stream_m2m_master_item_289878391b2781504e5043b5bb4bcb67</sys_update_name><sys_updated_by>andreaadmin</sys_updated_by><sys_updated_on>2022-05-19 09:59:21</sys_updated_on></sys_sg_item_stream_m2m_master_item></record_update>]]></payload>
+        <payload_hash>456435614</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e019b611be685104e5043b5bb4bcb97</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 09:59:21</sys_created_on>
+        <sys_id>689878391b2781504e5043b5bb4bcb6a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180dbc1ef930000001</sys_recorded_at>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 09:59:21</sys_updated_on>
+        <type>Stream M2M item config</type>
+        <update_guid>a09878396f278150de7c26c4d223006a</update_guid>
+        <update_guid_history>a09878396f278150de7c26c4d223006a:456435614</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 10:00:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_item_stream_m2m_master_item">sys_sg_item_stream_m2m_master_item</sys_db_object>
+        <sys_id>256463e8609042ae85943837a8a7d544</sys_id>
+        <sys_metadata>289878391b2781504e5043b5bb4bcb67</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_scope_delete display_value="">265a6f17462846dc8f1512720f121d10</sys_scope_delete>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_289878391b2781504e5043b5bb4bcb67</sys_update_name>
+        <sys_update_version display_value="sys_sg_item_stream_m2m_master_item_289878391b2781504e5043b5bb4bcb67">689878391b2781504e5043b5bb4bcb6a</sys_update_version>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 10:00:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

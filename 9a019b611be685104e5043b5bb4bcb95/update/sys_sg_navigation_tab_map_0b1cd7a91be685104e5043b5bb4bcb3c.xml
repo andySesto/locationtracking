@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_tab_map">
+    <sys_sg_navigation_tab_map action="INSERT_OR_UPDATE">
+        <navigation/>
+        <navigation_tab display_value="Notifications Settings">cf1cd7a91be685104e5043b5bb4bcb39</navigation_tab>
+        <order>110</order>
+        <sys_class_name>sys_sg_navigation_tab_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:12:36</sys_created_on>
+        <sys_id>0b1cd7a91be685104e5043b5bb4bcb3c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_navigation_tab_map_0b1cd7a91be685104e5043b5bb4bcb3c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:15:15</sys_updated_on>
+    </sys_sg_navigation_tab_map>
+</record_update>

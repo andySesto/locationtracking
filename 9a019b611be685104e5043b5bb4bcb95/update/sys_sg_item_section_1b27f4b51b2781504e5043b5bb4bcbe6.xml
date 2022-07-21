@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_section">
+    <sys_sg_item_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <destination_screen display_value="Locations">064f136d1be685104e5043b5bb4bcb93</destination_screen>
+        <display_title>true</display_title>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <hide_see_all_button>false</hide_see_all_button>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <max_items_display_count>15</max_items_display_count>
+        <orientation>horizontal</orientation>
+        <required_roles/>
+        <row_count/>
+        <scrolling_type>free</scrolling_type>
+        <sys_class_name>sys_sg_item_section</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 09:53:15</sys_created_on>
+        <sys_id>1b27f4b51b2781504e5043b5bb4bcbe6</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Locations available</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_item_section_1b27f4b51b2781504e5043b5bb4bcbe6</sys_update_name>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 10:16:16</sys_updated_on>
+        <table/>
+        <title>Locations available</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_item_section>
+</record_update>

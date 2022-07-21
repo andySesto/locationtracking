@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_native_client">
+    <sys_sg_native_client action="DELETE">
+        <client_theme/>
+        <empty_state/>
+        <force_local_login>false</force_local_login>
+        <geolocation_enabled>false</geolocation_enabled>
+        <name>Long/Lat Locations</name>
+        <navigation/>
+        <offline_enabled>false</offline_enabled>
+        <order/>
+        <required_roles/>
+        <sys_class_name>sys_sg_native_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:00:47</sys_created_on>
+        <sys_id>f5691fe51be685104e5043b5bb4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Long/Lat Locations</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_native_client_f5691fe51be685104e5043b5bb4bcb93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:00:47</sys_updated_on>
+        <type>request</type>
+        <vision_android_app_id/>
+        <vision_api_key/>
+        <vision_ios_app_id/>
+    </sys_sg_native_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</application>
+        <file_path/>
+        <instance_id>c445d3d7db52411052cec59705961953</instance_id>
+        <instance_name>empasesto</instance_name>
+        <name>sys_sg_native_client_f5691fe51be685104e5043b5bb4bcb93</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_native_client"><sys_sg_native_client action="INSERT_OR_UPDATE"><client_theme/><empty_state/><force_local_login>false</force_local_login><geolocation_enabled>false</geolocation_enabled><name>Long/Lat Locations</name><navigation/><offline_enabled>false</offline_enabled><order/><required_roles/><sys_class_name>sys_sg_native_client</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-30 10:00:47</sys_created_on><sys_id>f5691fe51be685104e5043b5bb4bcb93</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Long/Lat Locations</sys_name><sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package><sys_policy/><sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope><sys_update_name>sys_sg_native_client_f5691fe51be685104e5043b5bb4bcb93</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 10:00:47</sys_updated_on><type>request</type><vision_android_app_id/><vision_api_key/><vision_ios_app_id/></sys_sg_native_client></record_update>]]></payload>
+        <payload_hash>906677720</payload_hash>
+        <record_name>Long/Lat Locations</record_name>
+        <reverted_from/>
+        <source>1e019b611be685104e5043b5bb4bcb97</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 09:03:57</sys_created_on>
+        <sys_id>b0eb607d1be381504e5043b5bb4bcbd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180db8f35a50000001</sys_recorded_at>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 09:03:57</sys_updated_on>
+        <type>Mobile app config</type>
+        <update_guid>39691fe564e68510134c88c84714a395</update_guid>
+        <update_guid_history>39691fe564e68510134c88c84714a395:1733341748,39691fe564e68510134c88c84714a395:1733341748</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 09:10:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_native_client">sys_sg_native_client</sys_db_object>
+        <sys_id>08807fa0495044738095269640304e59</sys_id>
+        <sys_metadata>f5691fe51be685104e5043b5bb4bcb93</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Long/Lat Locations</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_scope_delete display_value="">265a6f17462846dc8f1512720f121d10</sys_scope_delete>
+        <sys_update_name>sys_sg_native_client_f5691fe51be685104e5043b5bb4bcb93</sys_update_name>
+        <sys_update_version display_value="sys_sg_native_client_f5691fe51be685104e5043b5bb4bcb93">b0eb607d1be381504e5043b5bb4bcbd6</sys_update_version>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 09:10:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

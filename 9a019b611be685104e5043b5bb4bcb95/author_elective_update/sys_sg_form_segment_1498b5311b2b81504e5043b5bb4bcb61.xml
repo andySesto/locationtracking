@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="DELETE">
+        <embedded_screen display_value="New details">d898b5311b2b81504e5043b5bb4bcb5e</embedded_screen>
+        <form display_value="Open record">5435b57d1be781504e5043b5bb4bcb84</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order/>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 14:38:58</sys_created_on>
+        <sys_id>1498b5311b2b81504e5043b5bb4bcb61</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_form_segment_1498b5311b2b81504e5043b5bb4bcb61</sys_update_name>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 14:38:58</sys_updated_on>
+    </sys_sg_form_segment>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</application>
+        <file_path/>
+        <instance_id>c445d3d7db52411052cec59705961953</instance_id>
+        <instance_name>empasesto</instance_name>
+        <name>sys_sg_form_segment_1498b5311b2b81504e5043b5bb4bcb61</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment"><sys_sg_form_segment action="INSERT_OR_UPDATE"><embedded_screen display_value="New details">d898b5311b2b81504e5043b5bb4bcb5e</embedded_screen><form display_value="Open record">5435b57d1be781504e5043b5bb4bcb84</form><header_view_config/><is_sticky>false</is_sticky><order/><sys_class_name>sys_sg_form_segment</sys_class_name><sys_created_by>andreaadmin</sys_created_by><sys_created_on>2022-05-19 14:38:58</sys_created_on><sys_id>1498b5311b2b81504e5043b5bb4bcb61</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package><sys_policy/><sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope><sys_update_name>sys_sg_form_segment_1498b5311b2b81504e5043b5bb4bcb61</sys_update_name><sys_updated_by>andreaadmin</sys_updated_by><sys_updated_on>2022-05-19 14:38:58</sys_updated_on></sys_sg_form_segment></record_update>]]></payload>
+        <payload_hash>-1892054446</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e019b611be685104e5043b5bb4bcb97</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 14:38:58</sys_created_on>
+        <sys_id>1898b5311b2b81504e5043b5bb4bcb63</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180dcc1ebf80000001</sys_recorded_at>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 14:38:58</sys_updated_on>
+        <type>Record screen segment</type>
+        <update_guid>5098b531cd2b81506858cd19821c6263</update_guid>
+        <update_guid_history>5098b531cd2b81506858cd19821c6263:-1892054446</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 14:40:00</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_segment">sys_sg_form_segment</sys_db_object>
+        <sys_id>041d6dce4a6549cd819ef2833fe2d769</sys_id>
+        <sys_metadata>1498b5311b2b81504e5043b5bb4bcb61</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_scope_delete display_value="">265a6f17462846dc8f1512720f121d10</sys_scope_delete>
+        <sys_update_name>sys_sg_form_segment_1498b5311b2b81504e5043b5bb4bcb61</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_segment_1498b5311b2b81504e5043b5bb4bcb61">1898b5311b2b81504e5043b5bb4bcb63</sys_update_version>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 14:40:00</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2022-04-08 20:53:01</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:10:57</sys_created_on>
+        <sys_id>f6bb1f691be685104e5043b5bb4bcbb2</sys_id>
+        <sys_mod_count>12</sys_mod_count>
+        <sys_name>1ED12D28381D4413025515FF06187464F88870094875A1A91114FD425BD50F14</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_f6bb1f691be685104e5043b5bb4bcbb2</sys_update_name>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-04-08 20:53:01</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>1ED12D28381D4413025515FF06187464F88870094875A1A91114FD425BD50F14</token>
+    </sys_push_notif_app_install>
+</record_update>

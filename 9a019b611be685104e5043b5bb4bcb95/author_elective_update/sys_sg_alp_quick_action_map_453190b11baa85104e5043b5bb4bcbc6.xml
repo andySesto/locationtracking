@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="">c24f5ba91be685104e5043b5bb4bcbf9</applet_launcher>
+        <order/>
+        <quick_action_button display_value="Loc quick">053190b11baa85104e5043b5bb4bcbc3</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 14:04:34</sys_created_on>
+        <sys_id>453190b11baa85104e5043b5bb4bcbc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_453190b11baa85104e5043b5bb4bcbc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 14:04:34</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</application>
+        <file_path/>
+        <instance_id>c445d3d7db52411052cec59705961953</instance_id>
+        <instance_name>empasesto</instance_name>
+        <name>sys_sg_alp_quick_action_map_453190b11baa85104e5043b5bb4bcbc6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="">c24f5ba91be685104e5043b5bb4bcbf9</applet_launcher><order/><quick_action_button display_value="Loc quick">053190b11baa85104e5043b5bb4bcbc3</quick_action_button><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-30 14:04:34</sys_created_on><sys_id>453190b11baa85104e5043b5bb4bcbc6</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package><sys_policy/><sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_453190b11baa85104e5043b5bb4bcbc6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-30 14:04:34</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>601319787</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1e019b611be685104e5043b5bb4bcb97</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 14:04:34</sys_created_on>
+        <sys_id>853190b11baa85104e5043b5bb4bcbc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17fdb24781d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 14:04:34</sys_updated_on>
+        <type>Quick actions menu</type>
+        <update_guid>cd3190b127aa8510b0cb4886796e8cc8</update_guid>
+        <update_guid_history>cd3190b127aa8510b0cb4886796e8cc8:601319787</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-31 07:47:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>06aad6ab148d4ae4818b7cf2b3aa8e90</sys_id>
+        <sys_metadata>453190b11baa85104e5043b5bb4bcbc6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_scope_delete display_value="">265a6f17462846dc8f1512720f121d10</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_453190b11baa85104e5043b5bb4bcbc6</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_453190b11baa85104e5043b5bb4bcbc6">853190b11baa85104e5043b5bb4bcbc9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-31 07:47:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

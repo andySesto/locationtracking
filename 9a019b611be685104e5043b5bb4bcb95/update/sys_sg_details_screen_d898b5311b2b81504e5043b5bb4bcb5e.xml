@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_details_screen">
+    <sys_sg_details_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <name>New details</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_details_screen</sys_class_name>
+        <sys_created_by>andreaadmin</sys_created_by>
+        <sys_created_on>2022-05-19 14:38:57</sys_created_on>
+        <sys_id>d898b5311b2b81504e5043b5bb4bcb5e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>New details</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_sg_details_screen_d898b5311b2b81504e5043b5bb4bcb5e</sys_update_name>
+        <sys_updated_by>andreaadmin</sys_updated_by>
+        <sys_updated_on>2022-05-19 14:40:00</sys_updated_on>
+        <table/>
+    </sys_sg_details_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=d898b5311b2b81504e5043b5bb4bcb5e"/>
+</record_update>

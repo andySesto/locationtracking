@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="mobile">3c70585353001010d69cddeeff7b1226</analytics_channel>
+        <application_name>Long/Lat Locations</application_name>
+        <bucket_document_id>f5691fe51be685104e5043b5bb4bcb93</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_table_name>sys_sg_native_client</bucket_table_name>
+        <bucket_type>mobile_request</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_snc_navagiation.sys_sg_native_client.f5691fe51be685104e5043b5bb4bcb93</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-30 10:00:47</sys_created_on>
+        <sys_id>06691b291be685104e5043b5bb4bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Long/Lat Locations</sys_name>
+        <sys_package display_value="Location Tracking" source="x_snc_navagiation">9a019b611be685104e5043b5bb4bcb95</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location Tracking">9a019b611be685104e5043b5bb4bcb95</sys_scope>
+        <sys_update_name>sys_analytics_bucket_06691b291be685104e5043b5bb4bcbd8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-30 10:00:47</sys_updated_on>
+    </sys_analytics_bucket>
+</record_update>
